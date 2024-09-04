@@ -1,4 +1,4 @@
-# Hyperx
+# Hyperx Algebra
 
 A library for general hypercomplex algebras with deep learning integration.
 
@@ -20,14 +20,14 @@ The **Hyperx** is an open-source Python library designed to support neural netwo
 You can install the library via `pip`:
 
 ```
-pip install hypercomplex-algebra
+pip install hyperx
 ```
 
 Alternatively, you can clone the repository and install it manually:
 
 ```
 git clone https://github.com/honey-vector/hyperx.git
-cd hyperx-algebra
+cd hyperx
 pip install .
 ```
 
